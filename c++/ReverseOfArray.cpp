@@ -1,3 +1,5 @@
+//REVERSE OF A NUMBER USING TWO POINTER
+
 #include <iostream>
 using namespace std;
 
