@@ -27,8 +27,6 @@ int main()
     //s1.roll_no=2345;
     //cout<<"Name : "<<s1.name<<endl;
     s1.displayinfo();
-
+    cout<<"shivanshu loves Mankaran"<<endl;
     return 0;
-
-
 }
